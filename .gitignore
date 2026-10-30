@@ -1,0 +1,25 @@
+# media and generated data (large, reproducible)
+*.mp4
+*.wav
+*.bin
+demo/*.gif
+demo/*.png
+video/**/*.png
+video/**/*.jpg
+video-smoothepd/**/*.png
+video-smoothepd/**/*.jpg
+
+# local state
+.DS_Store
+.keepgoing
+.keepgoing-done
+status-epd-prs.txt
+__pycache__/
+
+# kept local, not published
+resume-*.md
+NIGHT-QUESTIONS.md
+pr-drafts/
+pr-issues.md
+status_epd_prs.py
+research/ssd1683.txt

@@ -1,0 +1,76 @@
+[
+ {
+  "file": "teapot_1bit.gif",
+  "size": 124934,
+  "frames": 120,
+  "dims": "400x300",
+  "pal": 4,
+  "mean": "34.8",
+  "max": "44.8",
+  "purpose": "e-paper 1-bit, 400x300 needs MAX_WIDTH >= 400",
+  "pillow": "120/120",
+  "ffmpeg": "120/120",
+  "bin": true
+ },
+ {
+  "file": "teapot_1bit_320.gif",
+  "size": 122179,
+  "frames": 120,
+  "dims": "320x240",
+  "pal": 4,
+  "mean": "53.4",
+  "max": "68.5",
+  "purpose": "1-bit within current MAX_WIDTH 320",
+  "pillow": "120/120",
+  "ffmpeg": "120/120",
+  "bin": true
+ },
+ {
+  "file": "small_rgb.gif",
+  "size": 2562,
+  "frames": 20,
+  "dims": "64x64",
+  "pal": 16,
+  "mean": "11.5",
+  "max": "11.8",
+  "purpose": "RGB565 path on a TFT, 25 fps",
+  "pillow": "20/20",
+  "ffmpeg": "20/20"
+ },
+ {
+  "file": "disposal_2.gif",
+  "size": 445,
+  "frames": 9,
+  "dims": "64x64",
+  "pal": 4,
+  "mean": "6.2",
+  "max": "6.2",
+  "purpose": "disposal 2 (restore to bg); frame 4 disposal 1",
+  "pillow": "9/9",
+  "ffmpeg": "9/9"
+ },
+ {
+  "file": "delay_0.gif",
+  "size": 590,
+  "frames": 6,
+  "dims": "32x32",
+  "pal": 4,
+  "mean": "100.0",
+  "max": "100.0",
+  "purpose": "delays 0 and 1 cs",
+  "pillow": "6/6",
+  "ffmpeg": "6/6"
+ },
+ {
+  "file": "single_frame.gif",
+  "size": 169,
+  "frames": 1,
+  "dims": "32x32",
+  "pal": 4,
+  "mean": "-",
+  "max": "-",
+  "purpose": "one frame, no GCE, no loop ext",
+  "pillow": "1/1",
+  "ffmpeg": "1/1"
+ }
+]

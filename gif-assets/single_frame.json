@@ -1,0 +1,33 @@
+{
+ "file": "single_frame.gif",
+ "width": 32,
+ "height": 32,
+ "loop": false,
+ "background_index": 0,
+ "palette": [
+  "000000",
+  "ff0000",
+  "00ff00",
+  "ffffff"
+ ],
+ "lzw_min_code_size": 2,
+ "frames": [
+  {
+   "i": 0,
+   "x": 0,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "disposal": 0,
+   "delay_cs": 0,
+   "transparent": null,
+   "crc32_index": "f5c2db46",
+   "crc32_rgb565le": "603b6612",
+   "crc32_rgb565be": "8b13e1f3",
+   "gce": false
+  }
+ ],
+ "crc32_index": "CRC-32 of the canvas as palette indices, 1 byte per pixel",
+ "crc32_rgb565le": "CRC-32 of the canvas as RGB565, little-endian uint16 per pixel",
+ "crc32_rgb565be": "same, big-endian (reverse_bytes_in_word=True)"
+}

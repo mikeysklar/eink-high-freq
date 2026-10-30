@@ -1,0 +1,97 @@
+{
+ "file": "delay_0.gif",
+ "width": 32,
+ "height": 32,
+ "loop": true,
+ "background_index": 0,
+ "palette": [
+  "000000",
+  "ff0000",
+  "00ff00",
+  "ffffff"
+ ],
+ "lzw_min_code_size": 2,
+ "frames": [
+  {
+   "i": 0,
+   "x": 0,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "disposal": 1,
+   "delay_cs": 0,
+   "transparent": null,
+   "crc32_index": "11295208",
+   "crc32_rgb565le": "d1b6f31e",
+   "crc32_rgb565be": "d1b6f31e"
+  },
+  {
+   "i": 1,
+   "x": 0,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "disposal": 1,
+   "delay_cs": 1,
+   "transparent": null,
+   "crc32_index": "d2c8d1fe",
+   "crc32_rgb565le": "b7e33a5a",
+   "crc32_rgb565be": "46a6abf8"
+  },
+  {
+   "i": 2,
+   "x": 0,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "disposal": 1,
+   "delay_cs": 0,
+   "transparent": null,
+   "crc32_index": "8860b158",
+   "crc32_rgb565le": "22dee97c",
+   "crc32_rgb565be": "34419141"
+  },
+  {
+   "i": 3,
+   "x": 0,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "disposal": 1,
+   "delay_cs": 1,
+   "transparent": null,
+   "crc32_index": "3217df8f",
+   "crc32_rgb565le": "119c6dac",
+   "crc32_rgb565be": "119c6dac"
+  },
+  {
+   "i": 4,
+   "x": 0,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "disposal": 1,
+   "delay_cs": 0,
+   "transparent": null,
+   "crc32_index": "62289c51",
+   "crc32_rgb565le": "dee5d148",
+   "crc32_rgb565be": "dee5d148"
+  },
+  {
+   "i": 5,
+   "x": 0,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "disposal": 1,
+   "delay_cs": 1,
+   "transparent": null,
+   "crc32_index": "36bae77c",
+   "crc32_rgb565le": "cc696fc3",
+   "crc32_rgb565be": "a9edd3d9"
+  }
+ ],
+ "crc32_index": "CRC-32 of the canvas as palette indices, 1 byte per pixel",
+ "crc32_rgb565le": "CRC-32 of the canvas as RGB565, little-endian uint16 per pixel",
+ "crc32_rgb565be": "same, big-endian (reverse_bytes_in_word=True)"
+}
